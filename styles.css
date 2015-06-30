@@ -80,7 +80,9 @@ body {
 	left: 120px;
 	font-size: 10em;
 }
-
+.title {
+	text-align: center;
+}
 .clock-text {
 	padding: 5px;
 	font-size: 100px;
