@@ -1,89 +1,77 @@
 * {
-	border-sizing: border-box;
+    border-sizing: border-box;
 }
-
 body {
-	font-family: 'Orbitron', sans-serif;
-	font-size: 24px;
-	background: #ccc;
-	text-shadow: 0px 1px 1px #fff;
-	padding: 5px
+    font-family: 'Orbitron', sans-serif;
+    font-size: 24px;
+    background: #ccc;
+    text-shadow: 0px 1px 1px #fff;
+    padding: 5px
 }
-
 .container {
-	background-color: #CCC;
-	margin: 10px;
+    background-color: #CCC;
+    margin: 10px;
 }
-
 .clock {
-	display: inline-block;
+    display: inline-block;
 }
-
 .outer-shell {
-	background-color: grey;
-	padding: 20px;
+    background-color: grey;
+    padding: 20px;
 }
-
 .inner-shell {
-	background-color: black;
-	color: white;
-	padding: 40px 10px;
-	border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 40px 10px;
+    border-radius: 20px;
 }
-
 .face {
-	position: relative;
+    position: relative;
 }
-
 .pm {
-	text-align: left;
-	position: relative;
-	top: 80px;
-	left: 30px;
+    text-align: left;
+    position: relative;
+    top: 80px;
+    left: 30px;
 }
-
 .auto {
-	text-align: left;
-	position: relative;
-	top: 100px;
-	left: 30px;
+    text-align: left;
+    position: relative;
+    top: 100px;
+    left: 30px;
 }
-
 .top-label {
-	position: relative;
-	left: 220px;
-	text-align: left;
-	font-size: 16px;
-	white-space: pre;
+    position: relative;
+    left: 220px;
+    text-align: left;
+    font-size: 16px;
+    white-space: pre;
 }
-
 .bottom-label {
-	position: relative;
-	left: 220px;
-	top: 20px;
-	text-align: left;
-	font-size: 16px;
+    position: relative;
+    left: 220px;
+    top: 20px;
+    text-align: left;
+    font-size: 16px;
 }
-
 .screen {
-	background-color: darkred;
-	padding: 50px;
-	border-radius: 10px;
-	margin: 0 150px 10px 150px;
-	color: #F55;
-	width: 450px;
+    background-color: darkred;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 0 150px 10px 150px;
+    color: #F55;
+    width: 450px;
 }
-
 .am-pm {
-	position: absolute;
-	top: 0px;
-	left: 120px;
-	font-size: 10em;
+    position: absolute;
+    top: 0px;
+    left: 120px;
+    font-size: 10em;
 }
 .title {
-	text-align: center;
+    text-align: center;
 }
 .clock-text {
-	padding: 5px;
-	font-size: 100px;
+    padding: 5px;
+    font-size: 100px;
 }
